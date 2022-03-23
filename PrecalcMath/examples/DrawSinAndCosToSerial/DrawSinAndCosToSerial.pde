@@ -25,9 +25,6 @@ void loop() {
 
 
 
-
-
-
 void serialFeddBack(uint8_t sn,uint8_t cs) {
   	int j;
     sn=sn>>3;
